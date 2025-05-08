@@ -15,6 +15,7 @@
 
             list.InsertAtposition(0, 3);
 
+            Console.WriteLine(list.Get(3) + "\n----------");
             //list.DeleteLast();
             //list.DeleteFirst();
             //list.DeleteAtIndex(2);
@@ -183,6 +184,23 @@ class LinkedList<T>
         throw new Exception("can't find element");
         
     }
+    public T Get(uint index)
+    {
+        if (isEmpty())
+            throw new Exception("Linked list is empty");
+        if (index == 0) { return head.item; }
+        else if (index == length - 1) { return tail.item; }
+        else
+        {
+            Node temp = head;
+            for (int i = 0; i < index; i++)
+            {
+                temp = temp.next;
+            }
+            return temp.item;
+        }
+
+    }
     public void Reverse()
     {
         Node previous = null,
@@ -208,7 +226,7 @@ class LinkedList<T>
     public void Print()
     {
         Node temp = head;
-        for (int i = 0; i < length; i++)
+        while(temp != null)
         {
             Console.WriteLine(temp.item);
             temp = temp.next;
