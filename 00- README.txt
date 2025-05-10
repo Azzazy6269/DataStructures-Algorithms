@@ -14,8 +14,10 @@ This repository contains my practice implementations and problem-solving exercis
 9. Linked List
 10. Doubly Linked List
 11. Binary Tree
-12. Selection sort Algorithm
-13. Bubble Sort Algorithm
+12. Selection sort Algorithm // in-place sorting algorithm
+13. Bubble Sort Algorithm    // in-place sorting algorithm
+14. Insertion sort Algorithm // in-place sorting algorithm
+
 ## Structure
 
 Each folder contains:
