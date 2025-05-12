@@ -18,6 +18,7 @@ This repository contains my practice implementations and problem-solving exercis
 13. Bubble Sort Algorithm    // in-place sorting algorithm
 14. Insertion sort Algorithm // in-place sorting algorithm
 15. Merge Sort Algorithm 
+16. Heap Sort Algorithm
 
 ## Structure
 
