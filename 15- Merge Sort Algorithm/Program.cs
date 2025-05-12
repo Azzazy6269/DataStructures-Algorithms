@@ -2,7 +2,7 @@
 {
     static void Main(string[] args)
     {
-        int[] arr = new int[] {2,7,6,4,3,9,1,5,8 };
+        int[] arr = [2,7,6,4,3,9,1,5,8 ];
         MergeSort(arr);
         foreach (var item in arr)
         {

@@ -2,7 +2,7 @@
 {
     static void Main(string[] args)
     {
-        int[] arr = new int[]{6,4,9,1,5,3,8,2,7};
+        int[] arr = [6,4,9,1,5,3,8,2,7];
         InsertionSort(arr, arr.Length);
         foreach (var i in arr)
             Console.WriteLine(i);

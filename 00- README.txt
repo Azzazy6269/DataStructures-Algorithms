@@ -19,6 +19,7 @@ This repository contains my practice implementations and problem-solving exercis
 14. Insertion sort Algorithm // in-place sorting algorithm
 15. Merge Sort Algorithm 
 16. Heap Sort Algorithm
+17. Binary search Algorithm
 
 ## Structure
 
