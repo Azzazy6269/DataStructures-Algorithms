@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hash table (Linear Probing)", "Hash table (Linear Probing).csproj", "{E80BBBE9-93DC-40A4-9A5F-52BA4CE5081B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E80BBBE9-93DC-40A4-9A5F-52BA4CE5081B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80BBBE9-93DC-40A4-9A5F-52BA4CE5081B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80BBBE9-93DC-40A4-9A5F-52BA4CE5081B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80BBBE9-93DC-40A4-9A5F-52BA4CE5081B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA2D3D67-7D0B-4FA6-BF5C-08571F998493}
+	EndGlobalSection
+EndGlobal
