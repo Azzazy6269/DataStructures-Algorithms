@@ -14,12 +14,26 @@ This repository contains my practice implementations and problem-solving exercis
 9. Linked List
 10. Doubly Linked List
 11. Binary Tree
-12. Selection sort Algorithm // in-place sorting algorithm
-13. Bubble Sort Algorithm    // in-place sorting algorithm
-14. Insertion sort Algorithm // in-place sorting algorithm
-15. Merge Sort Algorithm 
-16. Heap Sort Algorithm
-17. Binary search Algorithm
+12. Hash Table (Linear Probing)
+13.Hash Table (Chaining)
+14. Selection sort Algorithm // in-place sorting algorithm
+15. Bubble Sort Algorithm    // in-place sorting algorithm
+16. Insertion sort Algorithm // in-place sorting algorithm
+17. Merge Sort Algorithm 
+18. Heap Sort Algorithm
+19. Binary search Algorithm
+20. Breadth first search Algorithm
+21. Depth first search Algorithm
+22. Dijkstra's search Algorithm
+
+# Things I learned and plan to implement:
+
+- [ ] Dijkstra Algorithm
+- [ ] A* Search Algorithm
+- [ ] Priority Queue
+- [ ] AVL Tree
+- [ ] Red-Black Tree
+- [ ] Quick Sort
 
 ## Structure
 
