@@ -14,7 +14,7 @@
         int min = i;
         if (left < arr.Length && arr[left] < arr[min])
             min = left;
-        if (right < arr.Length && arr[right] < arr[min])
+        if (right < arr.Length && arr[right]< arr[min])
             min = right;
         if (min != i)
         {
