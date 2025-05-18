@@ -20,20 +20,21 @@ This repository contains my practice implementations and problem-solving exercis
 15. Bubble Sort Algorithm    // in-place sorting algorithm
 16. Insertion sort Algorithm // in-place sorting algorithm
 17. Merge Sort Algorithm 
-18. Heap Sort Algorithm
-19. Binary search Algorithm
-20. Breadth first search Algorithm
-21. Depth first search Algorithm
-22. Dijkstra's search Algorithm
+18. Quick sort Algorithm
+19. Heap Sort Algorithm
+20. Priority Queue
+21. Binary search Algorithm
+
 
 # Things I learned and plan to implement:
 
+- [ ] Breadth first Algorithm
+- [ ] Depth first Algorithm 
 - [ ] Dijkstra Algorithm
 - [ ] A* Search Algorithm
-- [ ] Priority Queue
 - [ ] AVL Tree
 - [ ] Red-Black Tree
-- [ ] Quick Sort
+
 
 ## Structure
 
