@@ -24,11 +24,11 @@ This repository contains my practice implementations and problem-solving exercis
 19. Heap Sort Algorithm
 20. Priority Queue
 21. Binary search Algorithm
+22. Breadth first search Algorithm
 
 
 # Things I learned and plan to implement:
 
-- [ ] Breadth first Algorithm
 - [ ] Depth first Algorithm 
 - [ ] Dijkstra Algorithm
 - [ ] A* Search Algorithm
