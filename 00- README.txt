@@ -26,11 +26,11 @@ This repository contains my practice implementations and problem-solving exercis
 21. Binary search Algorithm
 22. Breadth first search Algorithm
 23. Depth first search Algorithm
+24. Dijkstra search Algorithm
 
 
 # Things I learned and plan to implement:
  
-- [ ] Dijkstra Algorithm
 - [ ] A* Search Algorithm
 - [ ] AVL Tree
 - [ ] Red-Black Tree
