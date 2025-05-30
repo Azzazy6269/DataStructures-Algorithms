@@ -37,7 +37,14 @@
              |
              6
          */
-
-        graph.Dijkstra(3);
+        try
+        {
+            graph.Dijkstra(3);
+            graph.FindPath(2);
+        }catch(Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+        
     }
 }
