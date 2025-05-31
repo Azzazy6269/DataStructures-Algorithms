@@ -16,13 +16,13 @@ This repository contains my practice implementations and problem-solving exercis
 10. Doubly Linked List
 11. Binary Tree
 12. Hash Table (Linear Probing)
-13.Hash Table (Chaining)
+13. Hash Table (Chaining)
 14. Selection sort Algorithm // in-place sorting algorithm
 15. Bubble Sort Algorithm    // in-place sorting algorithm
 16. Insertion sort Algorithm // in-place sorting algorithm
-17. Merge Sort Algorithm 
-18. Quick sort Algorithm
-19. Heap Sort Algorithm
+17. Merge Sort Algorithm     // xx not in-place sorting algorithm
+18. Quick sort Algorithm     // in-place sorting algorithm
+19. Heap Sort Algorithm      // in-place sorting algorithm
 20. Priority Queue
 21. Binary search Algorithm
 22. Breadth first search Algorithm
