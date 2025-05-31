@@ -1,3 +1,4 @@
+FROM SCRATCH
 
 This repository contains my practice implementations and problem-solving exercises on common data structures. Each folder focuses on a specific topic.
 
@@ -27,11 +28,11 @@ This repository contains my practice implementations and problem-solving exercis
 22. Breadth first search Algorithm
 23. Depth first search Algorithm
 24. Dijkstra search Algorithm
-
+25. A* Search Algorithm
 
 # Things I learned and plan to implement:
  
-- [ ] A* Search Algorithm
+
 - [ ] AVL Tree
 - [ ] Red-Black Tree
 
