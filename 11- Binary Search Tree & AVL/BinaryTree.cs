@@ -1,14 +1,4 @@
-﻿using System.Security.AccessControl;
-
-class Program
-{
-    static void Main()
-    {
-        
-    }
-}
-
-class BinaryTree<T> where T : IComparable
+﻿class BinaryTree<T> where T : IComparable
 {
     Node root;
     public class Node

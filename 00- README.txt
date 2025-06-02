@@ -35,6 +35,7 @@ This repository contains my practice implementations and problem-solving exercis
 
 - [ ] AVL Tree
 - [ ] Red-Black Tree
+- [ ] B-Tree
 
 
 ## Structure
