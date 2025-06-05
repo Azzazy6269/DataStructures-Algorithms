@@ -139,6 +139,8 @@
     }
 
 
+    // Traversals
+
     public void PreOrder(Node p) //Depth first traversal //root left right
     {
         if(p is not null)
